@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FrontMenu.unity
+    guid: d9e69dd78b5b72241823a3d939e50e88
+  - enabled: 1
+    path: Assets/Scenes/AssembleTask.unity
+    guid: 22d18ac542846c1408a346b6be90fb39
+  m_configObjects: {}
